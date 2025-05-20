@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 - 🔭 I’m working on Next JS, FastAPI, LangChain and Pinecone projects.
 - 👯 I’m looking to collaborate on Machine Learning
 - 💬 Ask me about Machine Learning / RAG / Building UI for ML Apps
-- 📫 How to reach me: sangeethsajan13@gmail.com
 - 😄 Pronouns: He / Him / His
